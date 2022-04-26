@@ -1,3 +1,7 @@
 # ALL-IN-ONE-QOL
 
-THIS HAS ALL THE MODS I HAVE SHOWCASED ALL IN ONE!
+This is a AH Bin Sniper, the fastest BIN Sniper.
+
+Stats:
+1.5B/Hour Profit (Est)
+Snipes at 0.003s of human reaction time!
